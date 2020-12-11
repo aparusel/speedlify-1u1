@@ -7,6 +7,6 @@ module.exports = {
 	urls: [
     "https://www.1und1.de/",
     "https://www.1und1.de/kwk",
-    "https://www.1und1.de/kontakt"
+    "https://www.1und1.de/Kontakt"
 	]
 };

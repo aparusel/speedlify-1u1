@@ -7,7 +7,7 @@ module.exports = {
 	urls: [
     "https://dsl.1und1.de/",
     "https://dsl.1und1.de/dsl-verfuegbarkeit-check",
-    "https://dsl.1und1.de/dsl-tarife",
-    "https://dsl.1und1.de/wlan-hardware"
+    "https://dsl.1und1.de/young",
+    "https://dsl.1und1.de/glasfaser"
 	]
 };
