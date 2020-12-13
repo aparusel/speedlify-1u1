@@ -7,7 +7,7 @@ module.exports = {
 	urls: [
 		"https://www.1und1.de/",
 		"https://dsl.1und1.de/",
-		"https://mobile.1und1.de/,
+		"https://mobile.1und1.de/",
 		"https://www.premiumsim.de/",
 		"https://www.telekom.de/start",
 		"https://www.vodafone.de/",
